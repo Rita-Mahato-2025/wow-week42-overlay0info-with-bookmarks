@@ -1,4 +1,5 @@
-# 📊 [Project Title] – Power BI Dashboard
+# 📊 Race Day Analytics: Motorsports Performance Dashboard
+Team standings, driver rankings, fastest laps, and positions gained across 15 races (Power BI) – Power BI Dashboard
 
 A minimal Power BI dashboard for motorsport fans and report users, with a bookmark-powered info panel that explains how to read and use the report.
 
