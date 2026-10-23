@@ -3,7 +3,6 @@
 A minimal Power BI dashboard for motorsport fans and report users, with a bookmark-powered info panel that explains how to read and use the report.
 
 🔗 **Live Dashboard:** [[Publish to web link]](https://app.powerbi.com/view?r=eyJrIjoiNjg3ZWRkMzMtY2IwMi00ZTczLTlmMTMtODQxNjIzY2U2NTAxIiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9)
-🎥 **Walkthrough:** [YouTube/LinkedIn link, optional]
 
 ![Dashboard Overview](images/dashboard-overview.png)
 
